@@ -45,5 +45,8 @@ The dataset consists of various health-related attributes, including:
 The project provides comprehensive insights into diabetes risk factors and trends. It highlights how attributes like glucose level, BMI, and insulin impact diabetes outcomes. The analysis helps in identifying significant medical indicators that could aid in early diagnosis and preventive measures.  
 
 ## **Dependencies:**  
-```bash
-pip install numpy pandas matplotlib scipy seaborn
+numpy
+- pandas
+- matplotlib
+- scipy
+- seaborn
